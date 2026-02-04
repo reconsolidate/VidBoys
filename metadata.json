@@ -1,0 +1,7 @@
+{
+  "name": "VidBuddy Core",
+  "description": "A state-of-the-art Generative World Model interface for high-fidelity video simulation with native audio synchronization, powered by Gemini Veo.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
